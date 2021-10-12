@@ -1,0 +1,12 @@
+GR1:
+  unit_price: 3.11
+  discount_kind: buy-one-get-one-free
+  bulk_discount_price:
+SR1:
+  unit_price: 5
+  discount_kind: bulk_discount
+  bulk_discount_price: 4.5
+CF1:
+  unit_price: 11.23
+  discount_kind:
+  bulk_discount_price:
